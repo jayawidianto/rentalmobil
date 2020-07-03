@@ -1,0 +1,186 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\07c9dd20804b1c5024bd36e23b46d083\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\ae47a9dfa86b9cb4d77d876f8a422e04\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\f603a16168e590a2c8d8d66ed336a929\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\243a9732fa15a717a0c66def0786c43f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\ea7b9de3408fc1aa3b23f6607c960413\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\0bcc6a241a97d018eebc3cdfdd457164\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\e9bc20b0433eae0a0db15dbb4f6c0b81\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\4862573ffebebefafed75630c914bc41\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\918b9152418b343fbe5f8e2c97714cfe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\2b99aef930408b93811e9bfc10221e68\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\caeb77f177d1cf613ca968d9d507e7ee\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\ca62350a18b764cb83d4e5e9ff08b0da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\76852f151c4f83931266dffd31c46b57\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\4356403a7edfa3a1a35dd73b868da161\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\3a856ab6ced0155acb9607c500c387fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\b05231c63e72b89be202d4b7b7193b60\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\9e26db2f0eac60e55a1f8870ba689200\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\77c064a0fa765602776ebbf4d17c7b0e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\d739376aab5b4b776d9ddb40e8bcdaa7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\c3e2bc4d36305b9f0281da08c4e38353\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\da4a6c9faabef4e64b46072a9e770c9e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\61245f57d819db59dc826b922bdeeaa1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\139556c67159e642a8375a4640cc78c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\c8ab6d71207d215c71c6ea32af11416c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\2dee42da27e57f1442fdff73a63136fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\9a4e62e1fcc30f3ecf5564cdb548558b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\bc612525c8dfbfee72a79047e2357952\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\e8bb437adfab6c63f8d95ec73ac83a9b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\1e755ad492368c23957b76896dd637ef\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\a51ee9e8b60af22667fe640051eb3da0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\9343a6ea81f566678721da8471095c5a\AndroidManifest.xml:17:1-22:12
+INJECTED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml
+		ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml
+		ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:5:5-28:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\07c9dd20804b1c5024bd36e23b46d083\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\07c9dd20804b1c5024bd36e23b46d083\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\f603a16168e590a2c8d8d66ed336a929\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\f603a16168e590a2c8d8d66ed336a929\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\d739376aab5b4b776d9ddb40e8bcdaa7\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\d739376aab5b4b776d9ddb40e8bcdaa7\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\c3e2bc4d36305b9f0281da08c4e38353\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\c3e2bc4d36305b9f0281da08c4e38353\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\d739376aab5b4b776d9ddb40e8bcdaa7\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:8:9-39
+	android:roundIcon
+		ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.ardian.kartumahasiswa.MainActivity
+ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:12:19-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.ardian.kartumahasiswa.BuatKontak
+ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:19:9-21:20
+	android:label
+		ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:20:13-63
+	android:name
+		ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:19:19-70
+activity#com.ardian.kartumahasiswa.LihatKontak
+ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:22:9-24:20
+	android:label
+		ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:23:13-64
+	android:name
+		ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:22:19-71
+activity#com.ardian.kartumahasiswa.UpdateKontak
+ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:25:9-27:20
+	android:label
+		ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:26:13-65
+	android:name
+		ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml:25:19-72
+uses-sdk
+INJECTED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml
+INJECTED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\07c9dd20804b1c5024bd36e23b46d083\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\07c9dd20804b1c5024bd36e23b46d083\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\ae47a9dfa86b9cb4d77d876f8a422e04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\ae47a9dfa86b9cb4d77d876f8a422e04\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\f603a16168e590a2c8d8d66ed336a929\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\f603a16168e590a2c8d8d66ed336a929\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\243a9732fa15a717a0c66def0786c43f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\243a9732fa15a717a0c66def0786c43f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\ea7b9de3408fc1aa3b23f6607c960413\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\ea7b9de3408fc1aa3b23f6607c960413\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\0bcc6a241a97d018eebc3cdfdd457164\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\0bcc6a241a97d018eebc3cdfdd457164\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\e9bc20b0433eae0a0db15dbb4f6c0b81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\e9bc20b0433eae0a0db15dbb4f6c0b81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\4862573ffebebefafed75630c914bc41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\4862573ffebebefafed75630c914bc41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\918b9152418b343fbe5f8e2c97714cfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\918b9152418b343fbe5f8e2c97714cfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\2b99aef930408b93811e9bfc10221e68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\2b99aef930408b93811e9bfc10221e68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\caeb77f177d1cf613ca968d9d507e7ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\caeb77f177d1cf613ca968d9d507e7ee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\ca62350a18b764cb83d4e5e9ff08b0da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\ca62350a18b764cb83d4e5e9ff08b0da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\76852f151c4f83931266dffd31c46b57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\76852f151c4f83931266dffd31c46b57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\4356403a7edfa3a1a35dd73b868da161\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\4356403a7edfa3a1a35dd73b868da161\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\3a856ab6ced0155acb9607c500c387fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\3a856ab6ced0155acb9607c500c387fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\b05231c63e72b89be202d4b7b7193b60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\b05231c63e72b89be202d4b7b7193b60\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\9e26db2f0eac60e55a1f8870ba689200\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\9e26db2f0eac60e55a1f8870ba689200\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\77c064a0fa765602776ebbf4d17c7b0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\77c064a0fa765602776ebbf4d17c7b0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\d739376aab5b4b776d9ddb40e8bcdaa7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\d739376aab5b4b776d9ddb40e8bcdaa7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\c3e2bc4d36305b9f0281da08c4e38353\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\c3e2bc4d36305b9f0281da08c4e38353\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\da4a6c9faabef4e64b46072a9e770c9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\da4a6c9faabef4e64b46072a9e770c9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\61245f57d819db59dc826b922bdeeaa1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\61245f57d819db59dc826b922bdeeaa1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\139556c67159e642a8375a4640cc78c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\139556c67159e642a8375a4640cc78c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\c8ab6d71207d215c71c6ea32af11416c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\c8ab6d71207d215c71c6ea32af11416c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\2dee42da27e57f1442fdff73a63136fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\2dee42da27e57f1442fdff73a63136fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\9a4e62e1fcc30f3ecf5564cdb548558b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\9a4e62e1fcc30f3ecf5564cdb548558b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\bc612525c8dfbfee72a79047e2357952\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\bc612525c8dfbfee72a79047e2357952\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\e8bb437adfab6c63f8d95ec73ac83a9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\e8bb437adfab6c63f8d95ec73ac83a9b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\1e755ad492368c23957b76896dd637ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\1e755ad492368c23957b76896dd637ef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\a51ee9e8b60af22667fe640051eb3da0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\a51ee9e8b60af22667fe640051eb3da0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\9343a6ea81f566678721da8471095c5a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\LENOVO\.gradle\caches\transforms-2\files-2.1\9343a6ea81f566678721da8471095c5a\AndroidManifest.xml:20:5-44
+INJECTED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml
+INJECTED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml
+		ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml
+		ADDED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Kartu Mahasiswa\app\src\main\AndroidManifest.xml
